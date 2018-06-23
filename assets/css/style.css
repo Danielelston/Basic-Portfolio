@@ -1,3 +1,5 @@
+/* Index page css */
+
 .header{
 
     background-color: #F1F1F1;
@@ -140,13 +142,6 @@ h2{
 
 }
 
-
-.box3{
-
-    flex: 1;
-    
-}
-
 /* Contact page css */
 
 #infoForm {
@@ -191,5 +186,71 @@ input[type=submit]:hover {
     
     background-color: #f2f2f2;
     padding: 20px;
+
+}
+
+/* Protfolio page css */
+
+.portGrid {
+
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+  
+.portGrid > div {
+    
+    background-color: #f1f1f1;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+
+}
+
+#fbox1{
+
+    background-image: url(../images/what-the-hex.png)
+
+}
+
+    #hangman{
+
+        display: flex;
+        flex-direction: column;
+        background-color: #4aaaa5;
+        width: 250px;
+        margin: 10px;
+        align-content: flex-end;
+        line-height: 50px;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+
+    }
+
+#fbox2{
+
+    background-image: url(../images/what-the-hex.png)
+
+}
+
+#fbox3{
+
+    background-image: url(../images/what-the-hex.png)
+
+}
+
+#fbox4{
+
+    background-image: url(../images/what-the-hex.png)
+
+}
+
+.fbox5{
+
+    background-image: url(../images/what-the-hex.png)
 
 }
