@@ -159,16 +159,7 @@ input[type=submit]:hover {
     height: 280px;
 }
 
-#fbox1 {
-    background-image: url(../images/yalikejazz.png);
-    margin: 15px;
-    height: 250px;
-    width: 250px;
-    float: left;
-    border: 1px solid #3d3d3d;
-}
-
-#jazz {
+/* .gridContainer > a {
     display: block;    
     position: relative;
     top: 180px;
@@ -177,6 +168,27 @@ input[type=submit]:hover {
     text-align: center;
     color: #3d3d3d;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}  */
+
+
+.boxLinks {
+    display: block;    
+    position: relative;
+    top: 180px;
+    background-color: #4aaaa5c5;
+    padding: 15px;
+    text-align: center;
+    color: #3d3d3d;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#fbox1 {
+    background-image: url(../images/yaLikeJazz.png);
+    margin: 15px;
+    height: 250px;
+    width: 250px;
+    float: left;
+    border: 1px solid #3d3d3d;
 }
 
 #fbox2 {
@@ -188,34 +200,12 @@ input[type=submit]:hover {
     border: 1px solid #3d3d3d;
 }
 
-#makeAmerica {
-    display: block;    
-    position: relative;
-    top: 180px;
-    background-color: #4aaaa5c5;
-    padding: 15px;
-    text-align: center;
-    color: #3d3d3d;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
 #fbox3 {
     background-image: url(../images/chromeIcon.png);
     margin: 15px;
     height: 250px;
     width: 250px;
     float: left;
-}
-
-#chromeInstaller {
-    display: block;    
-    position: relative;
-    top: 180px;
-    background-color: #4aaaa5c5;
-    padding: 15px;
-    text-align: center;
-    color: #3d3d3d;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #fbox4 {
@@ -226,17 +216,6 @@ input[type=submit]:hover {
     float: left;
 }
 
-#trap {
-    display: block;    
-    position: relative;
-    top: 180px;
-    background-color: #4aaaa5c5;
-    padding: 15px;
-    text-align: center;
-    color: #3d3d3d;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
 #fbox5 {
     background-image: url(../images/shrek.jpg);
     margin: 15px;
@@ -245,32 +224,10 @@ input[type=submit]:hover {
     float: left;
 }
 
-#helloThere {
-    display: block;    
-    position: relative;
-    top: 180px;
-    background-color: #4aaaa5c5;
-    padding: 15px;
-    text-align: center;
-    color: #3d3d3d;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
 #fbox6 {
-    background-image: url(../images/shrek.jpg);
+    background-image: url(../images/chad.png);
     margin: 15px;
     height: 250px;
     width: 250px;
     float: left;
-}
-
-#helloThere {
-    display: block;    
-    position: relative;
-    top: 180px;
-    background-color: #4aaaa5c5;
-    padding: 15px;
-    text-align: center;
-    color: #3d3d3d;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
