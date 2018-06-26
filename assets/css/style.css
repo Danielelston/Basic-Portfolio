@@ -206,6 +206,7 @@ input[type=submit]:hover {
     height: 250px;
     width: 250px;
     float: left;
+    border: 1px solid #3d3d3d;
 }
 
 #fbox4 {
@@ -214,6 +215,7 @@ input[type=submit]:hover {
     height: 250px;
     width: 250px;
     float: left;
+    border: 1px solid #3d3d3d;
 }
 
 #fbox5 {
@@ -222,6 +224,7 @@ input[type=submit]:hover {
     height: 250px;
     width: 250px;
     float: left;
+    border: 1px solid #3d3d3d;
 }
 
 #fbox6 {
@@ -230,4 +233,5 @@ input[type=submit]:hover {
     height: 250px;
     width: 250px;
     float: left;
+    border: 1px solid #3d3d3d;
 }
